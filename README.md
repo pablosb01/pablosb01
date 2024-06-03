@@ -14,6 +14,7 @@ DevelHope Student. :man_technologist:
 - :earth_americas: I'm from Asturias - Spain
 - 💻 I love tech
 - :gem: I love to customize everything lol
+- 🖥️ Currently working on my final proyect SCORE
 
 ## Contact
 
