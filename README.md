@@ -1,4 +1,4 @@
-<img align="right" width="auto" height="400" src="[https://i.redd.it/vnsxup7kmnf91.jpg](https://i.pinimg.com/736x/40/66/4a/40664a8e4549fd8874c1a29a39264fe2.jpg)">
+<img align="right" width="auto" height="400" src="https://i.pinimg.com/736x/40/66/4a/40664a8e4549fd8874c1a29a39264fe2.jpg">
 
 
 # Hi, I'm Pablo :chicken:
