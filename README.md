@@ -3,9 +3,9 @@
 
 # Hi, I'm Pablo :chicken:
 
-Full-Stack Web Developer :robot:. (In progress)
+Full-Stack Web Developer :robot:.
 
-DevelHope Student. :man_technologist:
+DevelHope Graduate. :man_technologist:
 
 ## About me 
 
@@ -14,7 +14,7 @@ DevelHope Student. :man_technologist:
 - :earth_americas: I'm from Asturias - Spain
 - 💻 I love tech
 - :gem: I love to customize everything lol
-- 🖥️ Currently working on AquaReloaded
+- 🖥️ Currently working on my Web Portfolio
 
 ## Contact
 
